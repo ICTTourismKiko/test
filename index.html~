@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>練習用</title>
+</head>
+<body>
+<p>Hello, World!</p>
+<<<<<<< HEAD
+<p>maeda</p>
+=======
+<p>Kenta Aikawa</p>
+<p>川瀬周紀</p>
+>>>>>>> develop
+</body>
+</html>
